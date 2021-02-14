@@ -1,3 +1,4 @@
+{
 "config" : {
   "success":true,
   "code":"SUCCESS",
@@ -6,4 +7,5 @@
     "acTimeoutMilis": 1000,
     "acEnabled": true
   }
+}
 }
