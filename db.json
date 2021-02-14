@@ -1,4 +1,4 @@
-config : {
+"config" : {
   "success":true,
   "code":"SUCCESS",
   "message":"Your request has been successfully completed.",
